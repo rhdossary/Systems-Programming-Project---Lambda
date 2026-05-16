@@ -1,4 +1,5 @@
 # Systems-Programming-Project---Lambda
+Raghad Aldossary 202101399 - Ghalia Aldossary 202100027 - Dulyyel Alkhaldi 202001655 - Lujain Aljanahi 202100201 - Salma Aldossary 202100498
 Project Description: This project is a simple Mini Shell implemented using Python.  
 The shell allows users to execute basic operating system commands interactively through the terminal.
 The project demonstrates important systems programming concepts such as:
