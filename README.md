@@ -1,6 +1,19 @@
 # Systems-Programming-Project---Lambda
-Group Members :
-Raghad Aldossary 202101399 - Ghalia Aldossary 202100027 - Dulyyel Alkhaldi 202001655 - Lujain Aljanahi 202100201 - Salma Aldossary 202100498
+
+Mini Shell
+A simple command-line shell written in Python for COSC/ITAP 3411 Systems Programming course.
+
+ Team Members
+| Name | ID Number |
+|------|-----------|
+| Raghad Aldossary | 202101399 |
+| Ghalia Aldossary | 202100027 |
+| Dulyyel Alkhaldi | 202001655 |
+| Lujain Aljanahi | 202100201 |
+| Salma Aldossary | 202100498 |
+
+ Instructor
+Dr. Ibrahim El Didi
 
 Project Description:
 This project is a simple Mini Shell implemented using Python.  
