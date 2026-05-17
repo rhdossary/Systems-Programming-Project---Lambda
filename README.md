@@ -1,7 +1,5 @@
 # Systems-Programming-Project---Lambda
 
-A simple command-line shell written in Python for COSC/ITAP 3411 Systems Programming course.
-
  Team Members
 | Name | ID Number |
 |------|-----------|
